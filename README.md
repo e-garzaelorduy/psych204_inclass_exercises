@@ -1,0 +1,1 @@
+This repository contains in-class exercises for Psych 204, focusing on simulations and data manipulation using R and the tidyverse. The file ch6_tea_simulations.qmd guides you through key tasks related to statistical inference simulations.
