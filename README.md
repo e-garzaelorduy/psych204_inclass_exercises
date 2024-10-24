@@ -1,4 +1,4 @@
-# Inference Simulations (Psych04)
+# Inference Simulations (Psych204)
 
 This repository contains in-class exercises for Psych 204, featuring simulations and data manipulation using R and the tidyverse.
 
