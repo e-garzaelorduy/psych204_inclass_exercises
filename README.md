@@ -1,6 +1,8 @@
 # Inference Simulations (Psych 201a)
 
-This repository contains in-class exercises for Psych 204, featuring simulations and data manipulation using R and the tidyverse. The Quarto Markdown document ch6_tea_simulations.qmd accompanies the Inference lecture from Psych 201a and guides you through key tasks related to statistical inference simulations, providing hands-on experience with data simulation and analysis.
+This repository contains in-class exercises for Psych 204, featuring simulations and data manipulation using R and the tidyverse.
+
+The Quarto Markdown document ch6_tea_simulations.qmd accompanies the Inference lecture from Psych 201a and guides you through key tasks related to statistical inference simulations, providing hands-on experience with data simulation and analysis.
 
 ## Table of Contents
 1. [Installation](#installation)
