@@ -1,2 +1,2 @@
 # Auto detect text files and perform LF normalization
-*.qmd linguist-detectable=true
+*.qmd linguist-language=R
