@@ -9,9 +9,8 @@ The Quarto Markdown document ch6_tea_simulations.qmd accompanies the Inference l
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [Simulations Overview](#simulations-overview)
-5. [Contribution Guidelines](#contribution-guidelines)
-6. [License](#license)
-7. [Acknowledgements](#acknowledgements)
+5. [License](#license)
+6. [Acknowledgements](#acknowledgements)
 
 ## Project Overview
 
@@ -38,15 +37,22 @@ To give students practical experience with R programming, data simulation, and s
 
 ## Usage
 
-This project is intended to be run in **Quarto** to render the document into HTML format. If you haven't installed Quarto yet, you can find the installation guide [here](https://quarto.org/docs/get-started/).
+This project is intended to be run in **Quarto** to render the document into HTML format.
+_If you haven't installed Quarto yet, you can find the installation guide [here](https://quarto.org/docs/get-started/)._
 
 ## Simulations Overview
 
 This project includes the following simulation exercises:
+- **Generating Tea-Rating Data:** Create a tibble of tea-ratings from different conditions (milk first vs. tea first), adjusting parameters such as sample size and variance.
+- **T-Tests:** Perform t-tests to compare tea-rating conditions and assess significance.
+- **Simulating Null Hypotheses:** Visualize the null hypothesis distribution using permutations of condition labels.
+- **Confidence Intervals:** Calculate and plot confidence intervals and standard errors for each condition.
 
-	•	**Generating Tea-Rating Data:** Create a tibble of tea-ratings from different conditions (milk first vs. tea first), adjusting parameters such as sample size and variance.
-	•	**T-Tests:** Perform t-tests to compare tea-rating conditions and assess significance.
-	•	**Simulating Null Hypotheses:** Visualize the null hypothesis distribution using permutations of condition labels.
-	•	**Confidence Intervals:** Calculate and plot confidence intervals and standard errors for each condition.
+## License
 
+This project is licensed under the MIT License. See the [License](https://opensource.org/licenses/MIT) file for more information.
+
+## Acknowledgements
+
+Thank you to the Psych 201a instructor, Dr. Bria Long, for designing these exercises!
  
